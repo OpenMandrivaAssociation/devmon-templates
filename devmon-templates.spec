@@ -2,7 +2,7 @@
 
 Name:		devmon-templates
 Version:	20080206
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Templates for Devmon SNMP Device Monitoring for Hobbit/BigBrother
 License:	GPL
 Group:		Monitoring
