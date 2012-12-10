@@ -40,3 +40,23 @@ rm -Rf %{buildroot}
 %files
 %defattr(-,root,root)
 %{_datadir}/devmon/templates
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 20080206-5mdv2011.0
++ Revision: 617575
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 20080206-4mdv2010.0
++ Revision: 427961
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 20080206-3mdv2009.0
++ Revision: 244080
+- rebuild
+
+* Wed Feb 06 2008 Buchan Milne <bgmilne@mandriva.org> 20080206-1mdv2008.1
++ Revision: 163086
+- import devmon-templates
+
+
