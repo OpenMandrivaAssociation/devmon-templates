@@ -4,7 +4,7 @@ Version:	20080206
 Release:	7
 License:	GPLv2+
 Group:		Monitoring
-Url:		http://devmon.sf.net
+Url:		https://devmon.sf.net
 Source0:	http://prdownloads.sourceforge.net/devmon/devmon-templates-%{version}.tar.gz
 Source10:	%{name}.rpmlintrc
 Requires:	devmon
